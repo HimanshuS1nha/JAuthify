@@ -2,6 +2,14 @@
 
 JAuthify is a secure authentication platform built with organization-based architecture, enabling seamless user management, role-based access control, and scalable multi-tenant authentication.
 
+## Screenshots
+
+![JAuthify-1](https://github.com/user-attachments/assets/75a0fefb-7fc7-48b8-a5bc-1a5d1dfa7d75)
+--
+![JAuthify-2](https://github.com/user-attachments/assets/2a482d6b-c79b-473a-9adc-27be29cda596)
+--
+![JAuthify-3](https://github.com/user-attachments/assets/2f70fd47-fd74-443b-9dfc-2e3f98414933)
+
 ## Get started
 
 1. Server
