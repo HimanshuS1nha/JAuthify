@@ -1,0 +1,38 @@
+Auth -> DONE
+
+Auth
+    - Change password -> DONE
+    - reset password -> Testing pending
+
+Org
+    - Schema -> DONE
+    - Session
+        - fix TODO: -> Testing pending
+    - Org logic
+        - create -> DONE
+        - getAllByUserId -> DONE
+        - get active -> DONE
+        - delete -> Testing pending
+        - update active org -> Testing pending
+    - Member
+        - create -> DONE
+        - Get all members by org id -> DONE
+        - update role -> Testing pending
+        - Remove -> Testing pending
+    - Verification
+        - Verify email -> DONE
+    - Invitation
+        - create -> DONE
+        - email -> DONE
+        - verify with expiry -> Testing pending
+        - decline -> Testing pending
+    - sessions -> Testing pending
+    - Resend otp -> Testing pending
+
+- Refactor all token code into a token service
+
+- User role -> DONE
+
+- Add annotations to allow role based access to functions -> DONE
+
+- Fix TODO: -> DONE
