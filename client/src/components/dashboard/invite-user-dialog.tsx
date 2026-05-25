@@ -139,7 +139,7 @@ const InviteUserDialog = ({
                 field.state.meta.isTouched && !field.state.meta.isValid;
               return (
                 <Field data-invalid={isInvalid}>
-                  <FieldLabel htmlFor={field.name}>Email</FieldLabel>
+                  <FieldLabel htmlFor={field.name}>Role</FieldLabel>
                   <Select
                     value={field.state.value}
                     onValueChange={(value) => {
